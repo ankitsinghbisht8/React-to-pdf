@@ -7,7 +7,7 @@ const student = {
     { semester: 'Semester 1', grade: 8.2 },
     { semester: 'Semester 2', grade: 7.9 },
     { semester: 'Semester 3', grade: 8.5 },
-    { semester: 'Semester 4', grade: 8.0 },
+    { semester: 'Semester 4', grade: 8.1 },
     { semester: 'Semester 5', grade: 8.3 },
     { semester: 'Semester 6', grade: 8.1 },
     { semester: 'Semester 7', grade: 8.4 },
